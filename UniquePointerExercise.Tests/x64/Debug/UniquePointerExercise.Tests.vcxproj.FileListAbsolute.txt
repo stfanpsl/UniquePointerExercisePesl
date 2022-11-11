@@ -1,0 +1,1 @@
+C:\Users\Anwender\source\repos\UniquePointerExercise\UniquePointerExercise.Tests\x64\Debug\UniquePointerExercise.Tests.vcxproj.CopyComplete

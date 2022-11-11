@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Anwender\source\repos\UniquePointerExercise\x64\Debug\UniquePointerExercise.Tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Sprint1.UniquePointerWithTypeEntity" Duration="1" />
+    <TestDuration Test="Sprint1.UniquePointerWithTypeString" Duration="1" />
+    <TestDuration Test="Sprint1.UniquePointerBoolOperator" Duration="1" />
+    <TestDuration Test="Sprint2.UniquePointerSwapMethod" Duration="1" />
+    <TestDuration Test="Sprint2.UniquePointerResetMethod" Duration="1" />
+    <TestDuration Test="Sprint2.UniquePointerReleaseMethod" Duration="1" />
+    <TestDuration Test="Sprint1.UniquePointerMoveConstructorAssignment" Duration="1" />
+    <TestDuration Test="Sprint2.UniquePointerSwapMethodUniquePointer" Duration="1" />
+    <TestDuration Test="Sprint2.UniquePointerSwapMethodRawPointer" Duration="1" />
+    <TestDuration Test="Sprint1.UniquePointerMoveConstructorSelfAssignment" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
